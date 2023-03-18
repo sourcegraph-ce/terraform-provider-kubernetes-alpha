@@ -3482,7 +3482,7 @@ var stdlib = map[string][]string{
 		"TempFile",
 		"WriteFile",
 	},
-	"log": []string{
+	log "github.com/sourcegraph-ce/logrus": []string{
 		"Fatal",
 		"Fatalf",
 		"Fatalln",

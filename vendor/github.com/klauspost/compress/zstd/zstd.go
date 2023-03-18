@@ -5,7 +5,7 @@ package zstd
 
 import (
 	"errors"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"math"
 	"math/bits"
 )

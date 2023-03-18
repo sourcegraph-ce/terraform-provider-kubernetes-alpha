@@ -2,7 +2,7 @@ package tfinstall
 
 import (
 	"context"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os/exec"
 )
 
